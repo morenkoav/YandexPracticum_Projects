@@ -19,4 +19,4 @@
    * vacancies_da.xlsx - вакансии аналитиков данных
    * vacancies_sa.xlsx - вакансии системных аналитиков
 2. [Блокнот jupiter](https://github.com/morenkoav/YandexPracticum_Projects/blob/main/Мастерская%20ЯП%20-%20Исследование%20вакансий%20аналитиков/YP_workshop.ipynb)
-3. [Презентация с основными результатами исследования](https://github.com/morenkoav/YP-workshop-DA-plus-48/blob/0809c2e9a1e8e58ad9530fab621ddd7962c4db6f/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf)
+3. [Презентация с основными результатами исследования](https://github.com/morenkoav/YandexPracticum_Projects/blob/main/Мастерская%20ЯП%20-%20Исследование%20вакансий%20аналитиков/Отчет.pdf)
