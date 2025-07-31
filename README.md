@@ -1,7 +1,7 @@
 # YandexPracticum_Projects
 Проекты выполненные на курсе "Аналитик данных"
 
-1. [Анализ оттока клиентов банка и кластеризация клиентов]()
+1. [Анализ оттока клиентов банка и кластеризация клиентов](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Банки%20-%20Анализ%20оттока%20клиентов)
 2. [Модель прогноза оттока клиентов фитнес-центра](https://github.com/morenkoav/YandexPracticum_Projects/blob/main/Модель%20прогноза%20оттока%20клиентов%20фитнес-центра/Модель%20прогноза%20оттока%20клиентов%20фитнес-центра.ipynb)
 3. [Анализ успешности компьютерных игр](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Анализ%20успешности%20компьютерных%20игр)
 4. [Приоритизация гипотез и проведение A/B теста интернет магазина](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Анализ%20AB%20теста)
