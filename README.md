@@ -10,4 +10,4 @@
 7. [Исследование данных российского кинопроката](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Исследование%20данных%20%20российского%20кинопроката)
 8. [Анализ бизнес-показателей](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Анализ%20бизнес%20показателей)
 9. [Исследование NPS телеком компании](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Исследование%20лояльности%20клиентов)
-10. [SQL: Анализ базы данных сервиса чтения книг по подписке]()
+10. [SQL: Анализ базы данных сервиса чтения книг по подписке](https://github.com/morenkoav/YandexPracticum_Projects/tree/main/Проект%20SQL%20-%20Анализ%20БД%20сервиса%20чтения%20книг)
